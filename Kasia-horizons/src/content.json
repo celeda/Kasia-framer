@@ -1,0 +1,314 @@
+
+{
+  "homePage": {
+    "hero": {
+      "title": "Katarzyna Celeda",
+      "subtitle": "Psychoterapeutka. Twoja przestrzeń do rozmowy, zrozumienia i wzrostu. Odkryjmy razem Twoją ścieżkę.",
+      "button1Text": "Poznaj mnie",
+      "button2Text": "Umów spotkanie"
+    },
+    "services": {
+      "title": "W czym mogę być pomocna?",
+      "items": [
+        {
+          "title": "Psychoterapia indywidualna",
+          "description": "Dla osób dorosłych i młodzieży. Praca nad osobistymi trudnościami, rozwojem i zrozumieniem siebie.",
+          "linkText": "Czytaj więcej"
+        },
+        {
+          "title": "Psychoterapia par i relacji",
+          "description": "Wsparcie dla par w kryzysach, problemach komunikacyjnych i budowaniu zdrowych relacji.",
+          "linkText": "Czytaj więcej"
+        },
+        {
+          "title": "Stany lękowe i depresyjne",
+          "description": "Pomoc w radzeniu sobie z lękiem, obniżonym nastrojem, stresem i wypaleniem.",
+          "linkText": "Czytaj więcej"
+        },
+        {
+          "title": "Traumatyczne doświadczenia",
+          "description": "Terapia skoncentrowana na przepracowaniu traumy i odzyskaniu równowagi psychicznej.",
+          "linkText": "Czytaj więcej"
+        }
+      ]
+    },
+    "aboutMe": {
+      "title": "Poznajmy się bliżej",
+      "paragraph1": "Psychoterapia to dla mnie spotkanie – żywe, autentyczne, czasem trudne, ale zawsze pełne sensu. Zależy mi, by ta przestrzeń mogła służyć temu, co pojawia się tutaj, a nie temu, co myślę, z góry zakładam.",
+      "paragraph2": "Pracuję z osobami, które doświadczają kryzysu, straty, trudności rozwojowych. Ale też z tymi, którzy po prostu chcą lepiej poznać i zrozumieć siebie.",
+      "buttonText": "Moja filozofia pracy"
+    },
+    "cta": {
+      "title": "Zrób pierwszy krok ku zmianie",
+      "subtitle": "Niezależnie od tego, gdzie jesteś na swojej drodze, zasługujesz na wsparcie. Skontaktuj się, aby dowiedzieć się więcej o tym, jak możemy razem pracować.",
+      "buttonText": "Umów bezpłatną konsultację wstępną"
+    }
+  },
+  "aboutPage": {
+    "main": {
+      "title": "O Mnie",
+      "subtitle": "Nazywam się Katarzyna Celeda. Jestem psycholożką i certyfikowaną psychoterapeutką. Moją pasją jest towarzyszenie ludziom w ich drodze do głębszego zrozumienia siebie i budowania bardziej satysfakcjonującego życia."
+    },
+    "experience": {
+      "title": "Wykształcenie i Doświadczenie",
+      "paragraph1": "Ukończyłam jednolite studia magisterskie z psychologii na Uniwersytecie Warszawskim. Następnie kontynuowałam naukę w Szkole Psychoterapii Poznawczo-Behawioralnej Uniwersytetu SWPS, zdobywając kompleksowe przygotowanie do prowadzenia terapii.",
+      "paragraph2": "Posiadam wieloletnie doświadczenie w pracy klinicznej, zdobywane m.in. w poradniach zdrowia psychicznego oraz na oddziałach szpitalnych. Regularnie uczestniczę w superwizjach oraz szkoleniach, aby stale podnosić swoje kwalifikacje i oferować pomoc na najwyższym poziomie.",
+      "paragraph3": "Jestem członkinią Polskiego Towarzystwa Terapii Poznawczej i Behawioralnej (PTTPB). W swojej pracy kieruję się zasadami kodeksu etycznego psychoterapeuty."
+    },
+    "philosophy": {
+      "title": "To, co mnie ukształtowało - Moja filozofia pracy",
+      "paragraph1": "Wierzę, że każdy człowiek posiada wewnętrzne zasoby do radzenia sobie z trudnościami i rozwoju. Moja rola jako psychoterapeutki polega na stworzeniu bezpiecznej, pełnej akceptacji i zaufania przestrzeni, w której możliwe staje się odkrywanie tych zasobów.",
+      "paragraph2": "Pracuję w nurcie integracyjnym, czerpiąc z różnych podejść terapeutycznych, głównie z terapii poznawczo-behawioralnej (CBT), terapii schematów oraz terapii akceptacji i zaangażowania (ACT). Pozwala mi to elastycznie dopasowywać metody pracy do indywidualnych potrzeb i problemów osoby zgłaszającej się po pomoc.",
+      "paragraph3": "Kluczowe dla mnie jest budowanie autentycznej relacji terapeutycznej opartej na empatii, szacunku i współpracy. Wspólnie z klientem określamy cele terapii i krok po kroku dążymy do ich realizacji. Skupiam się nie tylko na redukcji objawów, ale przede wszystkim na zrozumieniu ich przyczyn i budowaniu trwałej zmiany.",
+      "paragraph4": "Psychoterapia to dla mnie podróż w głąb siebie, która może prowadzić do większej samoświadomości, akceptacji, a w konsekwencji – do pełniejszego i bardziej satysfakcjonującego życia. To zaszczyt móc towarzyszyć w tej podróży."
+    },
+    "quote": {
+      "text": "\"Największym odkryciem mojego pokolenia jest to, że człowiek może zmienić swoje życie, zmieniając swoje nastawienie.\"",
+      "author": "- William James"
+    }
+  },
+  "serviceIndividualPage": {
+    "main": {
+      "title": "Psychoterapia Indywidualna",
+      "subtitle": "Indywidualne spotkania z terapeutą, skoncentrowane na Twoich osobistych potrzebach, trudnościach i celach. To bezpieczna przestrzeń do eksploracji siebie i pracy nad zmianą."
+    },
+    "forWhom": {
+      "title": "Dla kogo?",
+      "paragraph1": "Psychoterapia indywidualna jest formą pomocy skierowaną do osób dorosłych oraz młodzieży (od 16. roku życia), które doświadczają różnego rodzaju trudności emocjonalnych, psychicznych lub interpersonalnych, a także dla tych, którzy pragną lepiej zrozumieć siebie i rozwijać swój potencjał.",
+      "paragraph2": "Niezależnie od tego, czy zmagasz się z konkretnym problemem, czy po prostu czujesz, że potrzebujesz wsparcia w swoim życiu – terapia indywidualna może być cennym doświadczeniem."
+    },
+    "areas": {
+      "title": "Obszary, w których mogę pomóc:",
+      "items": [
+        "Trudności w relacjach interpersonalnych",
+        "Niskie poczucie własnej wartości",
+        "Doświadczanie silnego stresu, wypalenia",
+        "Stany lękowe (np. paniczny, fobie, społeczny)",
+        "Obniżony nastrój, depresja",
+        "Trudności w radzeniu sobie z emocjami",
+        "Problemy ze snem, zaburzenia odżywiania",
+        "Doświadczanie kryzysu życiowego",
+        "Chęć lepszego zrozumienia siebie",
+        "Potrzeba rozwoju osobistego"
+      ]
+    },
+    "process": {
+      "title": "Jak wygląda proces?",
+      "consultations": {
+        "title": "Pierwsze konsultacje (1-3 spotkania)",
+        "description": "Służą wzajemnemu poznaniu się, omówieniu trudności oraz ustaleniu celów terapii. To także czas na podjęcie decyzji o dalszej współpracy."
+      },
+      "sessions": {
+        "title": "Sesje terapeutyczne",
+        "description": "Regularne spotkania (zazwyczaj raz w tygodniu) trwające 50 minut. Pracujemy nad realizacją ustalonych celów poprzez rozmowę i techniki terapeutyczne."
+      },
+      "duration": "<strong>Czas trwania terapii:</strong> Jest indywidualny i zależy od rodzaju problemu oraz potrzeb klienta. Może to być terapia krótkoterminowa (kilka-kilkanaście spotkań) lub długoterminowa.",
+      "ending": "<strong>Zakończenie terapii:</strong> Decyzja o zakończeniu terapii jest podejmowana wspólnie, gdy cele zostaną osiągnięte lub gdy poczujesz gotowość na samodzielne radzenie sobie z wyzwaniami."
+    },
+    "cta": {
+      "text": "Jeśli czujesz, że psychoterapia indywidualna może być dla Ciebie pomocna, zapraszam do kontaktu. Razem możemy odkryć Twoją drogę do lepszego samopoczucia.",
+      "buttonText": "Umów się na konsultację"
+    }
+  },
+  "serviceCouplesPage": {
+    "main": {
+      "title": "Psychoterapia Par i Relacji",
+      "subtitle": "Terapia dla par to przestrzeń do wspólnej pracy nad trudnościami w związku, poprawy komunikacji i odbudowy wzajemnego zrozumienia oraz bliskości."
+    },
+    "whenToConsider": {
+      "title": "Kiedy warto skorzystać?",
+      "intro": "Psychoterapia par jest pomocna, gdy partnerzy doświadczają:",
+      "listItem1": "Częstych kłótni i trudności w porozumieniu się",
+      "listItem2": "Poczucia oddalenia emocjonalnego, braku bliskości",
+      "listItem3": "Problemów z zaufaniem, np. po zdradzie",
+      "listItem4": "Trudności związanych z ważnymi zmianami życiowymi",
+      "listItem5": "Problemów w sferze intymnej",
+      "listItem6": "Rozważania o rozstaniu lub chęci poprawy jakości związku",
+      "outro": "Terapia par może być również formą profilaktyki, pomagającą wzmocnić fundamenty związku i lepiej przygotować się na przyszłe wyzwania."
+    },
+    "goals": {
+      "title": "Główne cele terapii par:",
+      "items": [
+        {
+          "title": "Poprawa komunikacji",
+          "description": "Nauka efektywnego wyrażania potrzeb, uczuć i oczekiwań oraz aktywnego słuchania partnera."
+        },
+        {
+          "title": "Rozwiązywanie konfliktów",
+          "description": "Wypracowanie konstruktywnych sposobów radzenia sobie z nieporozumieniami i sporami."
+        },
+        {
+          "title": "Odbudowa bliskości",
+          "description": "Praca nad wzmocnieniem więzi emocjonalnej, intymności i poczucia bezpieczeństwa w związku."
+        }
+      ]
+    },
+    "process": {
+      "title": "Przebieg terapii par",
+      "consultations": "<strong>Konsultacje wstępne:</strong> Pierwsze spotkania (zwykle 1-2) odbywają się z obojgiem partnerów. Służą omówieniu problemów, oczekiwań oraz ustaleniu wspólnych celów terapeutycznych.",
+      "sessions": "<strong>Sesje terapeutyczne:</strong> Regularne spotkania pary z terapeutą, trwające zazwyczaj 60-90 minut, odbywające się co 1-2 tygodnie. Terapeuta pełni rolę bezstronnego moderatora.",
+      "methods": "<strong>Metody pracy:</strong> Terapia par wykorzystuje różnorodne techniki, m.in. ćwiczenia komunikacyjne, psychoedukację, pracę nad zmianą wzorców myślenia i zachowania.",
+      "commitment": "<strong>Zaangażowanie obojga partnerów:</strong> Skuteczność terapii par w dużej mierze zależy od motywacji i zaangażowania obojga partnerów w proces zmiany."
+    },
+    "cta": {
+      "text": "Jeśli chcecie wspólnie zadbać o Wasz związek i zbudować bardziej satysfakcjonującą relację, zapraszam na konsultację.",
+      "buttonText": "Umówcie się na spotkanie"
+    }
+  },
+  "serviceYouthPage": {
+    "main": {
+      "title": "Psychoterapia Młodzieży",
+      "subtitle": "Okres dojrzewania to czas wielu wyzwań i intensywnych zmian. Psychoterapia młodzieży oferuje wsparcie w radzeniu sobie z trudnościami emocjonalnymi, społecznymi i adaptacyjnymi."
+    },
+    "support": {
+      "title": "Wsparcie dla Młodych Ludzi",
+      "paragraph1": "Psychoterapia młodzieży (zazwyczaj od 12./13. do 18. roku życia) to forma pomocy dostosowana do specyficznych potrzeb tego okresu. Celem jest stworzenie bezpiecznej przestrzeni, w której młody człowiek może otwarcie mówić o swoich problemach.",
+      "paragraph2": "Terapeuta pomaga nastolatkowi lepiej zrozumieć siebie, rozwijać umiejętności radzenia sobie ze stresem i trudnymi emocjami, a także budować zdrowe relacje."
+    },
+    "problems": {
+      "title": "Typowe problemy, z którymi zgłasza się młodzież:",
+      "items": [
+        { "text": "Trudności w relacjach rówieśniczych" },
+        { "text": "Problemy szkolne i stres" },
+        { "text": "Niskie poczucie własnej wartości" },
+        { "text": "Lęki, fobie, zamartwianie się" },
+        { "text": "Obniżony nastrój, smutek, apatia" },
+        { "text": "Trudności w radzeniu sobie z emocjami" },
+        { "text": "Problemy z zachowaniem, bunt" },
+        { "text": "Doświadczanie przemocy (cyberprzemoc)" },
+        { "text": "Wyzwania okresu dojrzewania" },
+        { "text": "Uzależnienia (np. od internetu)" }
+      ]
+    },
+    "process": {
+      "title": "Jak przebiega terapia młodzieży?",
+      "consultation": "<strong>Pierwsza konsultacja:</strong> Zazwyczaj odbywa się z rodzicami/opiekunami oraz nastolatkiem. Celem jest zebranie informacji o problemie i ustalenie zasad współpracy.",
+      "sessions": "<strong>Indywidualne sesje z nastolatkiem:</strong> Regularne spotkania (50 minut), podczas których terapeuta pracuje bezpośrednio z młodym człowiekiem, używając metod dostosowanych do jego wieku.",
+      "parentsCooperation": "<strong>Współpraca z rodzicami/opiekunami:</strong> Okresowe spotkania z rodzicami w celu omówienia postępów i udzielenia wskazówek, z poszanowaniem prywatności nastolatka.",
+      "confidentiality": "<strong>Poufność:</strong> Sesje terapeutyczne są objęte tajemnicą zawodową, tworząc atmosferę zaufania."
+    },
+    "benefits": {
+      "items": [
+        { "title": "Indywidualne podejście", "description": "Terapia jest zawsze dostosowana do unikalnych potrzeb i osobowości." },
+        { "title": "Pozytywne wzmocnienie", "description": "Skupiamy się na mocnych stronach, budując poczucie kompetencji." }
+      ]
+    },
+    "cta": {
+      "text": "Jeśli jesteś rodzicem zaniepokojonym samopoczuciem swojego dziecka, lub nastolatkiem szukającym wsparcia, zapraszam do kontaktu.",
+      "buttonText": "Skontaktuj się"
+    }
+  },
+  "serviceFamilyPage": {
+    "main": {
+      "title": "Psychoterapia Rodzinna",
+      "subtitle": "Terapia rodzinna to forma pomocy psychologicznej, w której uczestniczą członkowie rodziny. Celem jest poprawa wzajemnych relacji, komunikacji oraz rozwiązanie problemów wpływających na cały system rodzinny."
+    },
+    "whenToConsider": {
+      "title": "Kiedy rodzina może potrzebować wsparcia?",
+      "intro": "Terapia rodzinna jest wskazana, gdy:",
+      "listItem1": "W rodzinie występują częste konflikty, napięcia",
+      "listItem2": "Członkowie rodziny mają trudności w porozumiewaniu się",
+      "listItem3": "Rodzina przeżywa kryzys (np. choroba, śmierć, problemy finansowe)",
+      "listItem4": "Problemy psychiczne lub uzależnienie jednego członka wpływają na pozostałych",
+      "listItem5": "Pojawiają się trudności wychowawcze",
+      "listItem6": "Rodzina przechodzi przez ważne zmiany (np. nowy członek, rozwód)"
+    },
+    "benefits": {
+      "title": "Korzyści z terapii rodzinnej:",
+      "items": [
+        { "title": "Poprawa komunikacji", "description": "Nauka otwartego i szanującego wyrażania myśli, uczuć i potrzeb przez wszystkich członków rodziny." },
+        { "title": "Rozwiązywanie konfliktów", "description": "Wspólne poszukiwanie rozwiązań trudności, które wpływają na funkcjonowanie całej rodziny." },
+        { "title": "Wzmacnianie więzi", "description": "Odbudowa lub budowanie silniejszych, bardziej wspierających relacji między członkami rodziny." },
+        { "title": "Wsparcie w kryzysach", "description": "Pomoc rodzinie w adaptacji do trudnych sytuacji życiowych (np. choroba, rozwód, przeprowadzka)." }
+      ]
+    },
+    "process": {
+      "title": "Jak wygląda terapia rodzinna?",
+      "participants": "<strong>Uczestnicy:</strong> W sesjach mogą uczestniczyć wszyscy członkowie rodziny mieszkający razem, lub tylko niektórzy, w zależności od problemu.",
+      "sessions": "<strong>Przebieg sesji:</strong> Spotkania (60-90 minut) co 2-4 tygodnie. Terapeuta pomaga zidentyfikować wzorce komunikacji i interakcji. Wspólnie poszukuje się nowych, bardziej konstruktywnych sposobów funkcjonowania.",
+      "therapistRole": "<strong>Rola terapeuty:</strong> Terapeuta jest neutralny, tworzy bezpieczną atmosferę, moderuje rozmowę, pomaga zrozumieć perspektywę innych.",
+      "systemicApproach": "<strong>Podejście systemowe:</strong> Rodzina jest systemem, w którym członkowie wzajemnie na siebie wpływają. Zmiana u jednej osoby może prowadzić do zmian w całym systemie."
+    },
+    "cta": {
+      "text": "Jeśli czujecie, że Wasza rodzina potrzebuje wsparcia w pokonywaniu trudności i budowaniu lepszych relacji, zapraszam na konsultację.",
+      "buttonText": "Umówcie konsultację rodzinną"
+    }
+  },
+  "articlePage": {
+    "header": {
+      "title": "Psychoterapia czy konsultacja psychologiczna – co wybrać?",
+      "date": "Data publikacji: 27 maja 2025"
+    },
+    "intro": {
+      "paragraph1": "Często osoby poszukujące wsparcia psychologicznego zastanawiają się, jaka forma pomocy będzie dla nich najbardziej odpowiednia. Dwa najczęściej pojawiające się terminy to konsultacja psychologiczna i psychoterapia. Choć oba dotyczą zdrowia psychicznego i są prowadzone przez specjalistów, różnią się celem, zakresem i czasem trwania. Zrozumienie tych różnic może pomóc w podjęciu świadomej decyzji."
+    },
+    "consultation": {
+      "title": "Konsultacja psychologiczna – pierwsze spotkanie z problemem",
+      "paragraph1": "Konsultacja psychologiczna to zazwyczaj jedno lub kilka (do 3-5) spotkań z psychologiem. Jej głównym celem jest wstępne rozpoznanie problemu, z którym zgłasza się dana osoba. Podczas konsultacji psycholog zbiera wywiad, stara się zrozumieć naturę trudności, ich nasilenie oraz wpływ na codzienne funkcjonowanie.",
+      "paragraph2": "Konsultacja może być pomocna, gdy:",
+      "listItem1": "Nie jesteś pewien/pewna, czy potrzebujesz psychoterapii.",
+      "listItem2": "Chcesz uzyskać poradę w konkretnej, doraźnej sprawie.",
+      "listItem3": "Potrzebujesz wsparcia w kryzysie i chcesz poznać dostępne formy pomocy.",
+      "listItem4": "Chcesz uzyskać diagnozę psychologiczną lub opinię.",
+      "paragraph3": "Efektem konsultacji może być zalecenie podjęcia psychoterapii, skierowanie do innego specjalisty, udzielenie konkretnych wskazówek lub psychoedukacja. Konsultacja sama w sobie rzadko prowadzi do głębokiej i trwałej zmiany, ale jest ważnym pierwszym krokiem."
+    },
+    "psychotherapy": {
+      "title": "Psychoterapia – proces leczenia i rozwoju",
+      "paragraph1": "Psychoterapia to regularny, długoterminowy proces leczenia zaburzeń psychicznych, rozwiązywania problemów emocjonalnych oraz wspierania rozwoju osobistego. Opiera się na relacji terapeutycznej – bezpiecznej i pełnej zaufania więzi między klientem a psychoterapeutą.",
+      "paragraph2": "Psychoterapia jest wskazana, gdy:",
+      "listItem1": "Doświadczasz długotrwałych trudności emocjonalnych.",
+      "listItem2": "Masz problemy w relacjach z innymi ludźmi.",
+      "listItem3": "Chcesz przepracować trudne doświadczenia z przeszłości.",
+      "listItem4": "Pragniesz lepiej zrozumieć siebie, swoje wzorce myślenia i zachowania.",
+      "listItem5": "Chcesz wprowadzić trwałe zmiany w swoim życiu i poprawić jego jakość.",
+      "paragraph3": "Psychoterapia może być prowadzona w różnych nurtach, a wybór odpowiedniego podejścia zależy od specyfiki problemu. Sesje odbywają się zazwyczaj raz w tygodniu i trwają 50 minut. Czas trwania procesu jest indywidualny."
+    },
+    "summary": {
+      "title": "Podsumowanie – co wybrać?",
+      "paragraph1": "Decyzja o wyborze między konsultacją a psychoterapią zależy od Twoich indywidualnych potrzeb i celów.",
+      "listItem1": "Jeśli potrzebujesz doraźnej porady, wstępnego rozpoznania problemu lub nie jesteś pewien, jakiej pomocy potrzebujesz – <strong>konsultacja psychologiczna</strong> będzie dobrym początkiem.",
+      "listItem2": "Jeśli zmagasz się z długotrwałymi trudnościami, chcesz głębiej zrozumieć siebie i wprowadzić trwałe zmiany – warto rozważyć <strong>psychoterapię</strong>.",
+      "paragraph2": "Pamiętaj, że często konsultacja psychologiczna jest pierwszym etapem przed podjęciem psychoterapii. Psycholog podczas konsultacji może pomóc Ci ocenić, czy psychoterapia jest dla Ciebie wskazana."
+    },
+    "cta": {
+      "text": "Jeśli masz wątpliwości lub pytania, zapraszam do kontaktu. Chętnie pomogę Ci wybrać najlepszą formę wsparcia.",
+      "buttonText": "Skontaktuj się"
+    }
+  },
+  "contactPage": {
+    "main": {
+      "title": "Kontakt",
+      "subtitle": "Masz pytania lub chcesz umówić się na konsultację? Jestem tutaj, aby pomóc. Skorzystaj z poniższych danych lub wypełnij formularz."
+    },
+    "details": {
+      "title": "Dane kontaktowe",
+      "email": {
+        "label": "Email",
+        "value": "kontakt@katarzynaceleda.pl"
+      },
+      "phone": {
+        "label": "Telefon",
+        "value": "+48 123 456 789"
+      },
+      "address": {
+        "label": "Adres Gabinetu",
+        "value": "ul. Przykładowa 123, 00-001 Warszawa"
+      },
+      "hours": {
+        "label": "Godziny pracy",
+        "value": "Poniedziałek - Piątek: 9:00 - 19:00 (umówione wizyty)"
+      }
+    },
+    "map": {
+      "title": "Lokalizacja Gabinetu"
+    },
+    "form": {
+      "title": "Napisz do mnie",
+      "nameLabel": "Imię i nazwisko",
+      "emailLabel": "Adres email",
+      "messageLabel": "Wiadomość",
+      "buttonText": "Wyślij wiadomość",
+      "signature": "Z ciepłem,<br />Kasia"
+    }
+  }
+}

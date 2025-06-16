@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Jasny motyw - zaktualizowany */
+    --background: 35 60% 97%; /* Bardzo jasny, ciepły kremowy (np. #FCF9F5) */
+    --foreground: 30 30% 28%; /* Głęboki, ciepły brąz (np. #5C5047) */
+    --card: 35 50% 94%; /* Jasny, neutralny beż (np. #F5F0EA) */
+    --card-foreground: 30 30% 28%;
+    --popover: 35 60% 97%;
+    --popover-foreground: 30 30% 28%;
+    
+    /* Ziemiste kolory dla przycisków i akcentów */
+    --primary: 30 45% 55%; /* Ziemisty, stonowany brzoskwiniowo-brązowy (np. #B39E8F) */
+    --primary-foreground: 35 60% 97%; /* Bardzo jasny tekst na primary */
+    --secondary: 30 30% 85%; /* Jasny, ciepły szaro-brąz (np. #DBD5CF) */
+    --secondary-foreground: 30 25% 35%; /* Ciemniejszy, stonowany brąz (np. #6B5F55) */
+    --accent: 30 45% 65%; /* Jaśniejszy odcień primary (np. #C7B5A7) */
+    --accent-foreground: 30 25% 35%;
+
+    --muted: 30 35% 93%; /* Bardzo jasny, stonowany krem (np. #F3EEE9) */
+    --muted-foreground: 30 25% 55%; /* Średni, ciepły szaro-brąz (np. #A1958C) */
+    --destructive: 0 70% 55%; /* Pozostawiony dla kontrastu */
+    --destructive-foreground: 35 60% 97%;
+    --border: 30 35% 88%; /* Delikatna, ciepła szarość dla obramowań (np. #E8E1D9) */
+    --input: 30 35% 88%;
+    --ring: 30 45% 55%; /* Dopasowany do nowego primary */
+    --radius: 0.5rem;
+
+    /* Ziemiste kolory dla nagłówków */
+    --heading-color: 30 25% 35%; /* Ciemniejszy, stonowany brąz (np. #6B5F55) */
+    --subheading-color: 30 22% 45%; /* Nieco jaśniejszy, ale nadal ziemisty brąz (np. #85786E) */
+  }
+
+  .dark {
+    /* Ciemny motyw - zaktualizowany dla spójności */
+    --background: 220 25% 12%; /* Głęboki, lekko zdesaturowany granat (np. #171A21) */
+    --foreground: 35 50% 92%; /* Jasny, ciepły beż (np. #F2EDE8) */
+    --card: 220 22% 15%; /* Ciemniejszy odcień tła (np. #1E222B) */
+    --card-foreground: 35 50% 92%;
+    --popover: 220 25% 12%;
+    --popover-foreground: 35 50% 92%;
+
+    /* Ziemiste kolory dla przycisków i akcentów w ciemnym motywie */
+    --primary: 30 55% 70%;  /* Ciepły, stonowany pomarańczowo-brązowy (np. #D9B38C) */
+    --primary-foreground: 220 25% 10%; /* Bardzo ciemny tekst na primary */
+    --secondary: 220 15% 25%; /* Ciemniejszy, stonowany szaro-niebieski (np. #363A45) */
+    --secondary-foreground: 35 45% 88%; /* Jasny, ciepły beż (np. #EBE2D9) */
+    --accent: 30 55% 78%; /* Jaśniejszy odcień primary (np. #E6C7A3) */
+    --accent-foreground: 220 25% 10%;
+
+    --muted: 220 20% 17%; /* Bardzo ciemny, stonowany (np. #232730) */
+    --muted-foreground: 35 35% 75%; /* Jasny, stonowany beż (np. #CCC3BA) */
+    --destructive: 0 65% 50%; /* Pozostawiony dla kontrastu */
+    --destructive-foreground: 35 50% 92%;
+    --border: 220 20% 25%; /* Ciemna, stonowana szarość (np. #333945) */
+    --input: 220 20% 25%;
+    --ring: 30 55% 70%; /* Dopasowany do nowego primary */
+
+    /* Ziemiste kolory dla nagłówków w ciemnym motywie */
+    --heading-color: 35 40% 85%; /* Jaśniejszy, ciepły beż (np. #E0D8CF) */
+    --subheading-color: 35 35% 78%; /* Nieco ciemniejszy beż (np. #D1C7BD) */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Lora', serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+  .font-sans {
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+.font-serif {
+  font-family: 'Lora', serif;
+}
+
+.font-sans {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.section-title {
+  @apply text-4xl md:text-5xl font-serif font-semibold mb-12 text-center;
+  color: hsl(var(--heading-color));
+}
+
+.section-subtitle {
+  @apply text-2xl md:text-3xl font-serif font-medium mb-8;
+  color: hsl(var(--subheading-color));
+}
+
+h1 { /* Dodatkowe dla H1 w HERO */
+  color: hsl(var(--heading-color));
+}
+h2 {
+  color: hsl(var(--subheading-color));
+}
+h3 {
+  @apply text-xl font-serif font-medium;
+  color: hsl(var(--subheading-color) / 0.9); /* Nieco jaśniejszy dla H3 */
+}
+
+
+.page-container {
+  @apply max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.parallax-bg {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.scroll-animate {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.scroll-animate-visible {
+  opacity: 1;
+  transform: translateY(0px);
+}
